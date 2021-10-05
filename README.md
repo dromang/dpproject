@@ -8,7 +8,7 @@ Full documentation is available at https://wodby.com/docs/stacks/drupal/local.
 
 Para iniciar el contenedor:
 ```
-docker-composer up -d
+docker-compose up -d
 ```
 Para ir al contenedor de drupal:
 ```
